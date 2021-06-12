@@ -259,9 +259,21 @@ nav li {
   cursor: pointer;
 }
 
+/* image de réalisations */
+.services-item img {
+  border: 1px solid violet;
+} 
+
 /* star */
 
 .star {
   font-size: 0.9rem;
   color: goldenrod;
+}
+
+
+@media (max-width: 768px) {
+  .services-item img {
+    border: none;
+  }
 }
