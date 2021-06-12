@@ -18,3 +18,13 @@ hr{
 .display-5 {
     font-family: 'Libre Barcode 128 Text', cursive;
 }
+#profil {
+    font-family: 'Akronim', cursive;
+    font-weight: bold;
+}
+.liste, #profil-text, ul, h4 {
+    font-family: 'Merriweather', serif;
+}
+h5 {
+    color:navy;
+}
