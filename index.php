@@ -10,9 +10,9 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Rye&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet"> 
-  <link href="https://fonts.googleapis.com/css2?family=Limelight&display=swap" rel="stylesheet"> 
-  <link href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Limelight&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap" rel="stylesheet">
   <link href="./css/cv.css" rel="stylesheet">
 
   <title>Amri</title>
@@ -22,10 +22,9 @@
 
   <!--NavBar-->
 
-  <nav class="navbar navbar-expand-lg navbar-light  fixed-top">
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top">
     <div class="container-fluid">
-      <a href="#accueil" class="navabar-brand" id="logo"><img src="img/logo.png" height="60px" width="60px"
-          title="Amri." alt="logo" /></a>
+      <a href="#accueil" class="navabar-brand" id="logo"><img src="img/amrimaher.png" height="60px" width="60px" title="Amri." alt="logo" /></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCOLLAPSE">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -74,14 +73,14 @@
       <div class="row min-vh-100 align-item-center align-content-center">
         <div class="col-md-6 mt-5 mt-md-0">
           <div class="accueil-img text-center">
-            <img src="img/amr.png" class="rounded-circle mw-100" alt="Amri img">
+            <img src="img/amri.png" class="rounded-circle mw-100" alt="Amri img">
           </div>
         </div>
         <div class="col-md-6 mt-5 mt-md-0 order-md-first">
           <div class="accueil-text">
             <p class="text-muted mb-1">Bonjour, Je suis </p>
             <h1 class="text-info text-uppercase fw-bold">Développeur Web</h1>
-            <h2 class="fs-4">Amri.</h2>
+            <h2 class="fs-4">Amri Maher.</h2>
             <p class="mt-4 text-muted">Développeur Web, je suis à votre disposition pour répondre à tout type de projets
               de création de sites internet vitrine, e-commerce, de développement spécifique ou d’applications web.
             </p>
@@ -92,17 +91,17 @@
     </div>
     <div class="mouse_scroll">
       <a href="#apropos">
-      <div class="mouse">
-      <div class="wheel"></div>
-      </div>
-      <div>
+        <div class="mouse">
+          <div class="wheel"></div>
+        </div>
+        <div>
           <span class="m_scroll_arrows unu"></span>
           <span class="m_scroll_arrows doi"></span>
           <span class="m_scroll_arrows trei"></span>
 
-      </div>
+        </div>
       </a>
-  </div>
+    </div>
   </section>
 
   <!-- Fin De La Section Accueil -->
@@ -155,8 +154,7 @@
                 <a href="#" class="text-dark me-2"><i class="fab fa-facebook-f"></i></a>
                 <a href=" https://github.com/amri-coder" class="text-dark me-2"><i class="fab fa-github"></i></a>
                 <a href="#" class="text-dark me-2"><i class="fab fa-instagram"></i></a>
-                <a href="https://www.linkedin.com/in/amri-amri-302228187/" class="text-dark me-2"><i
-                    class="fab fa-linkedin-in"></i></a>
+                <a href="https://www.linkedin.com/in/amri-amri-302228187/" class="text-dark me-2"><i class="fab fa-linkedin-in"></i></a>
               </div>
             </div>
           </div>
@@ -168,48 +166,42 @@
           <div class="skill-item mb-4">
             <h3 class="fs-6">HTML 5 / CSS 3</h3>
             <div class="progress" style="height: 5px;">
-              <div class="progress-bar bg-info" role="progressbar" style="width: 90%;" aria-valuenow="90"
-                aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar bg-info" role="progressbar" style="width: 90%;" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="skill-item mb-4">
             <h3 class="fs-6">PHP</h3>
             <div class="progress" style="height: 5px;">
-              <div class="progress-bar bg-info" role="progressbar" style="width: 75%;" aria-valuenow="75"
-                aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar bg-info" role="progressbar" style="width: 75%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="skill-item mb-4">
             <h3 class="fs-6">SYMFONY</h3>
             <div class="progress" style="height: 5px;">
-              <div class="progress-bar bg-info" role="progressbar" style="width: 70%;" aria-valuenow="70"
-                aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar bg-info" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="skill-item mb-4">
             <h3 class="fs-6">JAVASCRIPT</h3>
             <div class="progress" style="height: 5px;">
-              <div class="progress-bar bg-info" role="progressbar" style="width: 70%;" aria-valuenow="70"
-                aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar bg-info" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="skill-item mb-4">
             <h3 class="fs-6">REACT</h3>
             <div class="progress" style="height: 5px;">
-              <div class="progress-bar bg-info" role="progressbar" style="width: 50%;" aria-valuenow="50"
-                aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar bg-info" role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="skill-item mb-4">
             <h3 class="fs-6">BOOTSTRAP</h3>
             <div class="progress" style="height: 5px;">
-              <div class="progress-bar bg-info" role="progressbar" style="width: 60%;" aria-valuenow="60"
-                aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar bg-info" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
@@ -226,7 +218,7 @@
       <div class="row justify-content-center">
         <div class="col-lg-8">
           <div class="section-title text-center">
-            <h2 class="fw-bold mb-5">MES SERVICES</h2>
+            <h2 class="fw-bold mb-5">SERVICES</h2>
           </div>
         </div>
       </div>
@@ -255,9 +247,7 @@
               <i class="fas fa-lightbulb"></i>
             </div>
             <h3 class="fs-5 py-2">Web Design</h3>
-            <p class="text-muted">Votre identité de marque (logo, design de tous supports web) est créée <span
-                style="font-weight: bold;">sur mesure</span> pour répondre aux besoins de <span
-                style="font-weight: bold;">votre cible</span>.</p>
+            <p class="text-muted">Votre identité de marque (logo, design de tous supports web) est créée <span style="font-weight: bold;">sur mesure</span> pour répondre aux besoins de <span style="font-weight: bold;">votre cible</span>.</p>
             <ul>
               <li>Design de site internet</li>
               <li>Application web & mobile</li>
@@ -302,7 +292,7 @@
 
 
       <div class="row text-center">
-       
+
         <div class="col-md-6 col-lg-4 mb-4">
           <div class="services-item shadow-sm p-4 rounded bg-white">
             <div class="icon my-3 text-info fs-2">
@@ -316,7 +306,7 @@
               <i class="fas fa-star"></i>
               <i class="fas fa-star"></i>
             </div>
-            
+
             <button class="get-btn" data-bs-toggle="modal" data-bs-target="#exampleModalSiteAgence">Voir plus !</button>
 
             <!--modal Site Agence-->
@@ -358,15 +348,15 @@
                     </p>
                   </div>
                   <div class="modal-footer">
-                  
-                      <a href="http://amri.store/" class="btn btn-secondary text-decoration-none text-white" role="button">
-                        EXÉCUTABLE
-                      </a>
-                 
-                      <a href="#" class="btn btn-primary text-decoration-none text-white" role="button" data-bs-dismiss="modal">
-                        QUITTER !
-                      </a>
-                    
+
+                    <a href="http://amri.store/" class="btn btn-secondary text-decoration-none text-white" role="button">
+                      EXÉCUTABLE
+                    </a>
+
+                    <a href="#" class="btn btn-primary text-decoration-none text-white" role="button" data-bs-dismiss="modal">
+                      QUITTER !
+                    </a>
+
                   </div>
                 </div>
               </div>
@@ -390,7 +380,7 @@
               <i class="fas fa-star"></i>
             </div>
             <button class="get-btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Voir plus !</button>
-          
+
             <!--modal-->
 
             <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -407,7 +397,7 @@
                     <h4 style="color: #93A4AA;">- Stack Technique -</h4>
                     <p class="mt-4 text-muted">
                       <button type="button" class="btn btn-outline-info" data-mdb-ripple-color="dark">
-                        
+
                         mdbreact
                       </button>
                       <button type="button" class="btn btn-outline-info" data-mdb-ripple-color="dark">
@@ -428,28 +418,28 @@
                       <button type="button" class="btn btn-outline-info" data-mdb-ripple-color="dark">
                         Autres ..
                       </button>
-                      
+
                     </p>
                   </div>
                   <div class="modal-footer">
-                  
-                      <a href="http://amri-dev.site/" class="btn btn-secondary text-decoration-none text-white" role="button">
-                        EXÉCUTABLE
-                      </a>
-                 
-                      <a href="https://github.com/amri-coder/amri-dev" class="btn btn-secondary text-decoration-none text-white" role="button">
-                        CODE SOURCE
-                      </a>
 
-                      <a href="#" class="btn btn-primary text-decoration-none text-white" role="button" data-bs-dismiss="modal">
-                        QUITTER !
-                      </a>
-                    
+                    <a href="http://amri-dev.site/" class="btn btn-secondary text-decoration-none text-white" role="button">
+                      EXÉCUTABLE
+                    </a>
+
+                    <a href="https://github.com/amri-coder/amri-dev" class="btn btn-secondary text-decoration-none text-white" role="button">
+                      CODE SOURCE
+                    </a>
+
+                    <a href="#" class="btn btn-primary text-decoration-none text-white" role="button" data-bs-dismiss="modal">
+                      QUITTER !
+                    </a>
+
                   </div>
                 </div>
               </div>
-            </div>          
-          
+            </div>
+
           </div>
         </div>
 
@@ -501,25 +491,104 @@
                     </p>
                   </div>
                   <div class="modal-footer">
-                 
-                      <a href="https://github.com/amri-coder/e-commerce" class="btn btn-secondary text-decoration-none text-white" role="button">
+
+                    <a href="https://github.com/amri-coder/e-commerce" class="btn btn-secondary text-decoration-none text-white" role="button">
+                      CODE SOURCE
+                    </a>
+
+                    <a href="#" class="btn btn-primary text-decoration-none text-white" role="button" data-bs-dismiss="modal">
+                      QUITTER !
+                    </a>
+
+                  </div>
+                </div>
+              </div>
+
+
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+        <div class="row text-center">
+
+          <div class="col-md-6 col-lg-4 mb-4">
+            <div class="services-item shadow-sm p-4 rounded bg-white">
+              <div class="icon my-3 text-info fs-2">
+                <img src="img/laJungle.png" class="card-img-top" alt="laJungle">
+              </div>
+              <h3 class="fs-5 py-2 text-uppercase text-info text-muted">Site E-commerce</h3>
+              <div class="star">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+              </div>
+
+              <button class="get-btn" data-bs-toggle="modal" data-bs-target="#exampleModalSiteJungle">Voir plus !</button>
+
+              <!--modal Site Agence-->
+
+              <div class="modal fade" id="exampleModalSiteJungle" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="exampleModalLabel">La Jungle</h5>
+                      <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                      <img src="img/laJungle.png" class="card-img-top border border-muted" alt="amri-dev.site">
+                      <h2 class="text-primary text-uppercase ">Site E-commerce</h2>
+                      <h2 class="fs-4">La Jungle.</h2>
+                      <h4 style="color: #93A4AA;">- Stack Technique -</h4>
+                      <p class="mt-4 text-muted">
+                        <button type="button" class="btn btn-outline-info" data-mdb-ripple-color="dark">
+                          react-bootstrap
+                        </button>
+                        <button type="button" class="btn btn-outline-info" data-mdb-ripple-color="dark">
+                          CSS / HTML 5
+                        </button>
+                        <button type="button" class="btn btn-outline-info" data-mdb-ripple-color="dark">
+                          React Router
+                        </button>
+                        <button type="button" class="btn btn-outline-info" data-mdb-ripple-color="dark">
+                          React
+                        </button>
+                        <button type="button" class="btn btn-outline-info" data-mdb-ripple-color="dark">
+                          UseEffect
+                        </button>
+                        <button type="button" class="btn btn-outline-info" data-mdb-ripple-color="dark">
+                          UseState
+                        </button>
+                        <button type="button" class="btn btn-outline-info" data-mdb-ripple-color="dark">
+                          Autres
+                        </button>
+                      </p>
+                    </div>
+                    <div class="modal-footer">
+
+                      <a href="https://github.com/amri-coder/la-maison-jungle" class="btn btn-secondary text-decoration-none text-white" role="button">
                         CODE SOURCE
                       </a>
 
                       <a href="#" class="btn btn-primary text-decoration-none text-white" role="button" data-bs-dismiss="modal">
                         QUITTER !
                       </a>
-                    
+
+                    </div>
                   </div>
                 </div>
               </div>
 
-
+            </div>
           </div>
+
+
         </div>
-      </div>
-
-
 
 
 
@@ -600,13 +669,11 @@
             <form id="contactForm">
               <div class="row">
                 <div class="col-lg-6 mb-4">
-                  <input type="text" placeholder="Votre nom *"
-                    class="form-control form-control-lg fs-6 border-0 shadow-sm required" id="nom">
+                  <input type="text" placeholder="Votre nom *" class="form-control form-control-lg fs-6 border-0 shadow-sm required" id="nom">
                   <span id="nomManquant" style="color:red;"></span>
                 </div>
                 <div class="col-lg-6 mb-4">
-                  <input type="text" placeholder="Votre e-mail *"
-                    class="form-control form-control-lg fs-6 border-0 shadow-sm" id="email">
+                  <input type="text" placeholder="Votre e-mail *" class="form-control form-control-lg fs-6 border-0 shadow-sm" id="email">
                   <span id="emailManquant" style="color:red;"></span>
                 </div>
               </div>
@@ -618,15 +685,13 @@
 
               <div class="row">
                 <div class="col-lg-12 mb-4">
-                  <textarea rows="5" placeholder="Votre message *"
-                    class="form-control form-control-lg fs-6 border-0 shadow-sm" id="textarea"></textarea>
-                    <span id="textareaManquant" style="color:red;"></span>
+                  <textarea rows="5" placeholder="Votre message *" class="form-control form-control-lg fs-6 border-0 shadow-sm" id="textarea"></textarea>
+                  <span id="textareaManquant" style="color:red;"></span>
                 </div>
               </div>
               <div class="row">
                 <div class="col-lg-12">
-                  <button type="submit" class="btn btn-info px-3">Envoyer !</button><br /><span id="bouton"
-                    style="color:red;"></span>
+                  <button type="submit" class="btn btn-info px-3">Envoyer !</button><br /><span id="bouton" style="color:red;"></span>
                 </div>
               </div>
             </form>
@@ -644,7 +709,7 @@
     <div class="container-lg">
       <div class="row">
         <div class="col-lg-12">
-          <p class="m-0 text-center text-muted">&copy; All Right Reserved - Amri</p>
+          <p class="m-0 text-center text-muted">&copy; All Right Reserved - Amri - <?= date('Y'); ?></p>
         </div>
       </div>
     </div>
@@ -654,9 +719,8 @@
 
   <!-- fin footer-->
 
-
+  <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
   <script src="js/cv.js"></script>
-
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"></script>
 </body>
