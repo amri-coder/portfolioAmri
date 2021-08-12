@@ -571,6 +571,12 @@
                     </div>
                     <div class="modal-footer">
 
+                      <a href=" https://amri-coder.github.io/la-maison-jungle/" class="btn btn-secondary text-decoration-none text-white" role="button">
+                        EXÉCUTABLE
+                      </a>
+
+
+
                       <a href="https://github.com/amri-coder/la-maison-jungle" class="btn btn-secondary text-decoration-none text-white" role="button">
                         CODE SOURCE
                       </a>
